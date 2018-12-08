@@ -1,0 +1,10 @@
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab2\Częstość\Częstość\bin\Debug\Częstość.exe.config
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab2\Częstość\Częstość\bin\Debug\Częstość.exe
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab2\Częstość\Częstość\bin\Debug\Częstość.pdb
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab2\Częstość\Częstość\obj\Debug\Częstość.csprojAssemblyReference.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab2\Częstość\Częstość\obj\Debug\Częstość.Form1.resources
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab2\Częstość\Częstość\obj\Debug\Częstość.Properties.Resources.resources
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab2\Częstość\Częstość\obj\Debug\Częstość.csproj.GenerateResource.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab2\Częstość\Częstość\obj\Debug\Częstość.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab2\Częstość\Częstość\obj\Debug\Częstość.exe
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab2\Częstość\Częstość\obj\Debug\Częstość.pdb
